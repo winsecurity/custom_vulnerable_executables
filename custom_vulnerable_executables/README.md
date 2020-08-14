@@ -18,3 +18,7 @@
 ## Try it in windows xp VM as default unless mentioned 
 
 ## First try it yourself then if you struck only , see the writeup
+
+# Support 
+
+## If there are any errors , contact me nagasainikhil100@gmail.com
