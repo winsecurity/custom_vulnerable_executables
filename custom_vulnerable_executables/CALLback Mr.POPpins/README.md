@@ -3,7 +3,7 @@
 
 ## Category : Vanilla EIP Overwrite
 
-## Difficulty : 7.5 / 10
+## Category wise Difficulty : 7.5 / 10
 
 ## OS : Windows 32 Bit 
 
