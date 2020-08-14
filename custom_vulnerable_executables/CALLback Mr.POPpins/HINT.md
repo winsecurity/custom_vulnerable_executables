@@ -6,7 +6,11 @@
 
 # Hint
 
-## Since we can't run egghunter , we need to jump back so far such that we land before of our shellcode.
+## This is slight modification of CALLback challenge
+
+## We need to bypass those 8 null bytes.
+
+## Since we can't use \xeb byte , we need to find POP POP RET Sequence.
 
 ## Use JMP - CALL - POP Technique so that next address will be popped into register 
 
@@ -14,7 +18,7 @@
 
 ## Link to Learn 
 
-### [Click here to learn about JMP CALL POP](https://marcosvalle.github.io/osce/2018/05/06/JMP-CALL-POP-technique.html)
+### [Click here to learn about POP POP RET](https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/)
 
 
 # Writeup
