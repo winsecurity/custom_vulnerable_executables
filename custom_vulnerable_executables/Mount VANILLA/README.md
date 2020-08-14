@@ -9,7 +9,7 @@
 
 ## Compiler : GCC
 
-## Tested Environment : Windows XP 32 Bit
+### Tested Environment : Windows XP 32 Bit
 
 ## MD5 Hash for exe file : 5cea33b5888ae50579d89007d2406e7f
 
