@@ -9,6 +9,6 @@
 
 ## Compiler : GCC
 
-## Recommended Environment : Windows XP 32 Bit
+## Tested Environment : Windows XP 32 Bit
 
 
