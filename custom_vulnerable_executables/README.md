@@ -12,6 +12,8 @@
 
 ## **All the Binaries will run on the port 9999**
 
+## **Directly Send the Buffer**
+
 # Tips
 
 ## If there is any stack misalignment , rename the executable to **vulnserver.exe**
