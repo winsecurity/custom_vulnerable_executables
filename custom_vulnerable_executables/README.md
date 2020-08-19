@@ -18,9 +18,12 @@
 
 ### If there is any stack misalignment , rename the executable to **vulnserver.exe**
 
+### Sometimes , the challenge name tells the pitfall 
+
 ### Try it in windows xp VM as default unless mentioned 
 
 ### First try it yourself then if you struck only , see the writeup
+
 
 # Support 
 
